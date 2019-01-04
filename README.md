@@ -1,4 +1,7 @@
 
+Contributers:
+Jon DiQuattro and Tanner Seramur
+
 travis badge
 https://www.travis-ci.com/jondiquattro/09-socket.io-ns
 https://lab-09-diquattro.herokuapp.com/
